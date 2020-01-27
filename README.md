@@ -2,7 +2,7 @@
 
 ***Source***
 
-"Sex Difference in the brain: Divergent results from traiditional machine learning and convolutional networks"
+"Sex Difference in the brain: Divergent results from traditional machine learning and convolutional networks"
 
 
 ***Purpose***
